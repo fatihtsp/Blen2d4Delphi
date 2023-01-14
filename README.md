@@ -1,8 +1,8 @@
 <p align="left">
-  <img src="imgs/blGettingStarted05.png" height="200" title="sample image output">
-  <img src="imgs/blGettingStarted04.png" height="200" title="sample image output">
-  <img src="imgs/blGettingStarted06.png" height="200" title="sample image output">
-  <img src="imgs/blGettingStarted07.png" height="200" title="sample image output">
+  <img src="imgs/blGettingStarted05.png" height="150" title="sample image output">
+  <img src="imgs/blGettingStarted04.png" height="150" title="sample image output">
+  <img src="imgs/blGettingStarted06.png" height="150" title="sample image output">
+  <img src="imgs/blGettingStarted07.png" height="150" title="sample image output">
 </p>
 
 # Blen2d4Delphi
