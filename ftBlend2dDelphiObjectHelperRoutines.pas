@@ -1,7 +1,7 @@
 
 unit ftBlend2dDelphiObjectHelperRoutines;
 
-{ Blend2D for Delphi [new delphi port based on Blend2d version_0.0.18].         }
+{ Blend2D for Delphi [new delphi port based on Blend2d version_0.0.18].        }
 {                                                                              }
 { Overview                                                                     }
 {                                                                              }
